@@ -1,10 +1,10 @@
-	Game story: The game is set on a small farm on the edge of town. The journey from seed to fruit to the gardener's plate is not an easy one for our brave tomato who has to go from freezing winters in the solarium to summers out in the open where her life is always endangered by animals living underground and feeding on the freshly ripe fruit.
+**Game Story:** The game is set on a small farm on the edge of town. The journey from seed to fruit to the gardener's plate is not an easy one for our brave tomato who has to go from freezing winters in the solarium to summers out in the open where her life is always endangered by animals living underground and feeding on the freshly ripe fruit.
 
-`	`**Game Overview:** The idea of the game is for a single player to help the tomato to go through the maze, depending on the season and a limited time in which to collect the other vegetables and not run into insects and pests that appear in its path. The last step the player must do before his vegetables and the tomato reach the gardener is to cut them perfectly to make a salad.
+**Game Overview:** The idea of the game is for a single player to help the tomato to go through the maze, depending on the season and a limited time in which to collect the other vegetables and not run into insects and pests that appear in its path. The last step the player must do before his vegetables and the tomato reach the gardener is to cut them perfectly to make a salad.
 
-`	`**Game rules:** The game involves strategically choosing the path for our tomato to reach the gardener in time and gathering as many vegetables as possible along the way. The tomato and the other vegetables suffer from an encounter with an impostor so they are no longer fit to eat and the player loses. Even if the player manages to get through the maze, collect the required number of vegetables, but fails to cut them correctly before they make it into the salad or does not complete all the tasks in time he loses again.
+**Game rules:** The game involves strategically choosing the path for our tomato to reach the gardener in time and gathering as many vegetables as possible along the way. The tomato and the other vegetables suffer from an encounter with an impostor so they are no longer fit to eat and the player loses. Even if the player manages to get through the maze, collect the required number of vegetables, but fails to cut them correctly before they make it into the salad or does not complete all the tasks in time he loses again.
 
-`	`**Game characters:** 
+**Game characters:** 
 
 \- The Brave Rose is the player-character. She is as her name says brave and eager to get with the other vegetables to the gardener to be eaten as soon as possible.
 
