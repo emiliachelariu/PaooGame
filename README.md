@@ -1,0 +1,1 @@
+ Game story:The game is set on a small farm on the edge of town.The journey from seed to fruit to the gardener's plate is not an easy one for our brave tomato who has to go from freezing winters in the solarium to summers out in the open where her life is always endangered by animals living underground and feeding on the freshly ripe fruit.
