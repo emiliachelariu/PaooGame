@@ -1,4 +1,4 @@
-﻿`	`**Game story**: The game is set on a small farm on the edge of town. The journey from seed to fruit to the gardener's plate is not an easy one for our brave tomato who has to go from freezing winters in the solarium to summers out in the open where her life is always endangered by animals living underground and feeding on the freshly ripe fruit.
+﻿  Game story**: The game is set on a small farm on the edge of town. The journey from seed to fruit to the gardener's plate is not an easy one for our brave tomato who has to go from freezing winters in the solarium to summers out in the open where her life is always endangered by animals living underground and feeding on the freshly ripe fruit.
 
 `	`**Game Overview:** The idea of the game is for a single player to help the tomato to go through the maze, depending on the season and a limited time in which to collect the other vegetables and not run into insects and pests that appear in its path. The last step the player must do before his vegetables and the tomato reach the gardener is to cut them perfectly to make a salad.
 
