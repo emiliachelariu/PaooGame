@@ -1,3 +1,5 @@
+
+
 **Game Story:** The game is set on a small farm on the edge of town. The journey from seed to fruit to the gardener's plate is not an easy one for our brave tomato who has to go from freezing winters in the solarium to summers out in the open where her life is always endangered by animals living underground and feeding on the freshly ripe fruit.
 
 **Game Overview:** The idea of the game is for a single player to help the tomato to go through the maze, depending on the season and a limited time in which to collect the other vegetables and not run into insects and pests that appear in its path. The last step the player must do before his vegetables and the tomato reach the gardener is to cut them perfectly to make a salad.
@@ -8,15 +10,11 @@
 
 \- The Brave Rose is the player-character. She is as her name says brave and eager to get with the other vegetables to the gardener to be eaten as soon as possible.
 
-![Shape
-
-Description automatically generated](Aspose.Words.d4bb4f7b-be5e-402b-b6cb-7897fa39ebc6.001.png)
+![psb](https://github.com/emiliachelariu/PaooGame/assets/100294712/7cbdacc1-5a91-48a7-acfb-a6ae95b5ffa3)
 
 \- The Jack owl and the other insects that make the tomato's journey a difficult one and prevent it from getting to the salad as quickly as possible.
 
-![O imagine care conține clipart, desen animat, halloween, pasăre
-
-Descriere generată automat](Aspose.Words.d4bb4f7b-be5e-402b-b6cb-7897fa39ebc6.002.png)
+![mole](https://github.com/emiliachelariu/PaooGame/assets/100294712/c1e7c28a-705d-4cad-a35d-cb4d63bcea3c)
 
 **Game board:**  
 
@@ -26,33 +24,25 @@ Descriere generată automat](Aspose.Words.d4bb4f7b-be5e-402b-b6cb-7897fa39ebc6.0
 
 \- The structure of the game board: depending on the season winter or summer when the ground will be covered with grass and flowers, all the components will be laid out on the whole game board. At the top of the board will be the player's life time and the number of vegetables collected from the number that is imposed to pass this task. There will also be a kitchen counter where at the end the player has to cut the vegetables to get into the salad bowl.
 
-`         `![O imagine care conține captură de ecran, model
+![Imagine1](https://github.com/emiliachelariu/PaooGame/assets/100294712/48af3cb0-00c6-4f86-bb30-0f9186b8a7e9)
 
-Descriere generată automat]
 
-![O imagine care conține captură de ecran, model
+![Imagine3](https://github.com/emiliachelariu/PaooGame/assets/100294712/5c5bbfed-e179-424b-abf3-2963f891e781)
 
-Descriere generată automat]
 
 **Game mechanics**: The tomato has 4 directions of movement: up (w key), down (s key), left (a key) and right (d key).Points will be collected according to how many vegetables the tomato manages to collect without interacting with pests. The player will be considered the winner when he manages to complete all the tasks.
 
 **Game sprite**
+![poza](https://github.com/emiliachelariu/PaooGame/assets/100294712/aabe840a-e461-4139-b806-81242b364490)
 
-![O imagine care conține text, captură de ecran, desen animat
 
-Descriere generată automat](Aspose.Words.d4bb4f7b-be5e-402b-b6cb-7897fa39ebc6.004.png)
+![poza2](https://github.com/emiliachelariu/PaooGame/assets/100294712/0323e48f-f546-4cea-87e9-ade445b41785)
 
-![O imagine care conține fruct, captură de ecran, legumă, halloween
 
-Descriere generată automat](Aspose.Words.d4bb4f7b-be5e-402b-b6cb-7897fa39ebc6.005.png)
+![poza3](https://github.com/emiliachelariu/PaooGame/assets/100294712/c40503d7-a363-48a9-9a96-82a96c06bece)
 
-![O imagine care conține captură de ecran, desen animat
+![poza1](https://github.com/emiliachelariu/PaooGame/assets/100294712/d4187142-ec99-431a-9987-dfea068ba01d)
 
-Descriere generată automat](Aspose.Words.d4bb4f7b-be5e-402b-b6cb-7897fa39ebc6.006.png)
-
-![O imagine care conține captură de ecran, pixel
-
-Descriere generată automat](Aspose.Words.d4bb4f7b-be5e-402b-b6cb-7897fa39ebc6.007.png)
 
 **Description of each level:** 
 
